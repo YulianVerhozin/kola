@@ -1,6 +1,6 @@
 package Main;
 
-public class Main {
+public class Car {
     String model;//модель
     int maxSpeed;//максимальная скорость
     int wheels;//ширина дисков
