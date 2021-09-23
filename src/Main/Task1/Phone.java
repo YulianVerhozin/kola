@@ -1,4 +1,4 @@
-package Main;
+package Main.Task1;
 
 public class Phone {
     String model;
