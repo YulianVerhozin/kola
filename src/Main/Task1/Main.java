@@ -1,5 +1,7 @@
 package Main.Task1;
 
+import Main.Task2.Person;
+
 public class Main {
     public static void main(String[] args) {
         Phone xiaomi = new Phone("Mi 6",456);
@@ -25,6 +27,8 @@ public class Main {
 
         tyu("lol", "jol", 123);
 
+
+        Person person = new Person();
 
     }
     static void pone (String... pnm){
